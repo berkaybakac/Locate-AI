@@ -1,0 +1,17 @@
+# macOS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+data/clean/
+data/reports/
+
+# Notebooks (ignore 02_ and 03_)
+02_notebook/
+03_notebook_geolife_mvp/
