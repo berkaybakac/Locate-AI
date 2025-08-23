@@ -15,3 +15,5 @@ data/reports/
 # Notebooks (ignore 02_ and 03_)
 02_notebook/
 03_notebook_geolife_mvp/
+
+interim/
