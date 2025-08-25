@@ -1,0 +1,16 @@
+{
+  "status": "\u2705 Hedef kar\u015f\u0131land\u0131",
+  "auc_roc": 1.0,
+  "pr_auc": 1.0,
+  "best_threshold": 0.32,
+  "recall": 1.0,
+  "precision": 1.0,
+  "f1": 1.0,
+  "fpr": 0.0,
+  "tp": 4737,
+  "fp": 0,
+  "tn": 16162,
+  "fn": 0,
+  "n_train": 83596,
+  "n_test": 20899
+}
