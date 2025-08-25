@@ -1,0 +1,25 @@
+{
+  "status": "ℹ️ Hedef dışı (kriter dışı seçildi)",
+  "auc_roc": 0.8049633595584625,
+  "pr_auc": 0.5137905541097894,
+  "best_threshold": 0.6,
+  "recall": 0.6964323411441841,
+  "precision": 0.4791575889615105,
+  "f1": 0.5677163999311651,
+  "fpr": 0.22187848038609084,
+  "tp": 3299.0,
+  "fp": 3586.0,
+  "tn": 12576.0,
+  "fn": 1438.0,
+  "n_train": 83596,
+  "n_test": 20899,
+  "features": [
+    "alt_m",
+    "dt_s",
+    "dist_m",
+    "speed_kmh",
+    "acc_mps2",
+    "heading_deg",
+    "dirchg_deg"
+  ]
+}

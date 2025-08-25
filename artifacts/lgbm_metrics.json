@@ -1,0 +1,25 @@
+{
+  "status": "\u2705 Hedef kar\u015f\u0131land\u0131",
+  "auc_roc": 0.9999750781726408,
+  "pr_auc": 0.9999155368667385,
+  "best_threshold": 0.5800000000000001,
+  "recall": 0.9972422571064913,
+  "precision": 0.9924002533248891,
+  "f1": 0.9948153634536028,
+  "fpr": 0.0008043558965474569,
+  "tp": 4701.0,
+  "fp": 13.0,
+  "tn": 16149.0,
+  "fn": 36.0,
+  "n_train": 83596,
+  "n_test": 20899,
+  "features": [
+    "alt_m",
+    "dt_s",
+    "dist_m",
+    "speed_kmh",
+    "acc_mps2",
+    "heading_deg",
+    "dirchg_deg"
+  ]
+}
